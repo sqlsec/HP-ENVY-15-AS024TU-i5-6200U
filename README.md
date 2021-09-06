@@ -91,3 +91,5 @@
 
 可以看我 B 站的专栏：[HP ENVY 15 AS024TU i5-6200U 黑苹果记录](https://www.bilibili.com/read/cv13031699) 
 
+关于这个笔记本更多的测评可以参考：[1500元的笔记本 也能有极致黑苹果体验？](https://www.bilibili.com/video/BV1Jh411s7Skhttps://www.bilibili.com/video/BV1Jh411s7Sk) 
+
